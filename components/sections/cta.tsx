@@ -12,10 +12,10 @@ export function CTA() {
             Together, we can create innovative solutions that make a lasting impact on the world.
           </p>
           <div className="mt-10 flex items-center justify-center gap-x-6">
-            <Button size="lg" className="bg-white text-gray-900 hover:bg-gray-100">
+            <Button variant="default" size="lg" className="bg-white text-gray-900 hover:bg-gray-100">
               Start Collaborating
             </Button>
-            <Button variant="ghost" size="lg" className="text-white hover:bg-gray-800">
+            <Button variant="outline" size="lg" className="text-white hover:bg-gray-800">
               Contact Us
             </Button>
           </div>
