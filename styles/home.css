@@ -1,0 +1,48 @@
+.layout {
+  font-family: Arial, sans-serif;
+  color: #333;
+}
+
+.hero {
+  text-align: center;
+  padding: 2rem;
+}
+
+.subtle-gradient {
+  background: linear-gradient(to right, #f0f0f0, #e0e0e0);
+}
+
+.elegant-text {
+  font-style: italic;
+  color: #555;
+}
+
+.main-content {
+  padding: 2rem;
+}
+
+.minimal-grid {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 1rem;
+}
+
+.card {
+  background: #fff;
+  padding: 1rem;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+}
+
+.transparency {
+  margin-top: 2rem;
+  padding: 1rem;
+  background: #f9f9f9;
+  border-left: 4px solid #ccc;
+}
+
+footer {
+  text-align: center;
+  padding: 1rem;
+  background: #f0f0f0;
+}
