@@ -1,12 +1,12 @@
 [build]
-  publish = "medsim"
+  publish = "public"
 
 [build.environment]
   NODE_VERSION = "18"
 
 [[redirects]]
-  from = "/medsim/privacy"
-  to = "/medsim/privacy.html"
+  from = "/privacy"
+  to = "/privacy.html"
   status = 200
 
 [[headers]]
