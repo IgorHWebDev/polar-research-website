@@ -1,5 +1,5 @@
 [build]
-  publish = "/"
+  publish = "medsim"
 
 [build.environment]
   NODE_VERSION = "18"
